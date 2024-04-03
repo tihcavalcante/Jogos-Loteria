@@ -2,7 +2,7 @@ from LOTERIA.lib.interface import *
 from LOTERIA.lib.system import *
 
 while True:
-    resp = menu(['Mega-Sena', 'Lotofácil', 'Quina', 'Lotomania', 'Milhonaria', 'Sair'])
+    resp = menu(['Mega-Sena', 'Lotofácil', 'Quina', 'Lotomania', 'Milionaria', 'Sair'])
     if resp == 1:
         mega()
         print()
