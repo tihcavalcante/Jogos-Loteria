@@ -1,4 +1,4 @@
-##Projeto Jogos da Loteria Caixa - README
+## Projeto Jogos da Loteria Caixa - README
 
 Este projeto em Python permite aos usuários sortear jogos aleatórios para diferentes tipos de loterias da Caixa Econômica Federal. O programa oferece uma interface simples e intuitiva, permitindo que os usuários escolham o tipo de jogo que desejam sortear e a quantidade de jogos que desejam gerar.
 
@@ -14,14 +14,14 @@ Menu Interativo:
 
 Uma interface de menu interativa facilita a navegação e a seleção das opções desejadas pelo usuário.
 
-###Como Usar:
+### Como Usar:
 Execução do Programa:
 
 Execute o arquivo principal **main.py** em um ambiente Python.
-ou use o arquivo **run_project.bat**
+Ou use o arquivo **run_project.bat**
 Certifique-se de ter o módulo random instalado.
 
-###Escolha do Tipo de Jogo:
+### Escolha do Tipo de Jogo:
 
 No menu inicial, o usuário pode selecionar o tipo de jogo desejado, escolhendo entre as opções listadas.
 Seleção da Quantidade de Jogos:
@@ -31,12 +31,12 @@ Visualização dos Jogos Sorteados:
 
 O programa exibirá os jogos sorteados na tela, seguindo as regras e formatos específicos de cada tipo de loteria.
 
-###Requisitos do Sistema:
+### Requisitos do Sistema:
 Python 3.x instalado no sistema.
 Módulo random disponível no ambiente Python.
 
 
-###Contribuições:
+### Contribuições:
 Este projeto é de código aberto e aceita contribuições da comunidade. Se você encontrar bugs, problemas de desempenho ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma nova issue ou enviar uma pull request para revisão.
 
 Autor:
