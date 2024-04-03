@@ -126,7 +126,7 @@ def milhonaria():
     jogos = []
     trevo =[]
     print()
-    cabecalho(f'\033[33m{"MILHONARIA"}\033[m')
+    cabecalho(f'\033[33m{"MILIONARIA"}\033[m')
     print()
     quant = int(input(f'\033[33mQuantos jogos? >>>   \033[m'.strip()))
     tot = 1
